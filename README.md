@@ -49,17 +49,17 @@ Open the notebooks in Jupyter and run cells sequentially to see analysis and vis
 
 📈 Sample Visualizations
 
-### Fighter Win/Loss Analysis
-![Win/Loss Plot](reports/figures/win_loss_plot.png)
+### Home Page
+![Home Page](https://github.com/huzaif-ulla-khan/UFC-Fighter-Performance-Analysis/blob/main/screenshots/HomePage.png))
 
-### Performance Trends Over Time
-![Performance Trend](reports/figures/performance_trend.png)
+### Performance Analytics
+![Performance Analytics](https://github.com/huzaif-ulla-khan/UFC-Fighter-Performance-Analysis/blob/main/screenshots/performance_analytics.png)
 
-### Fighter Win/Loss Analysis
-![Win/Loss Plot](reports/figures/win_loss_plot.png)
+### Performance Comparison
+![Performance Comparison](https://github.com/huzaif-ulla-khan/UFC-Fighter-Performance-Analysis/blob/main/screenshots/performance_comparison.png)
 
-### Performance Trends Over Time
-![Performance Trend](reports/figures/performance_trend.png)
+### Head-2-Head Statistics
+![Head-2-Head Statistics](https://github.com/huzaif-ulla-khan/UFC-Fighter-Performance-Analysis/blob/main/screenshots/H2H-statistics.png)
 
 💡 Insights
 Top-performing fighters in each weight class
