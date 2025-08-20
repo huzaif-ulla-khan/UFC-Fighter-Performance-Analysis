@@ -28,17 +28,17 @@ This project analyzes UFC fighters’ performance using historical fight data. T
 
 ---
 
-## 📝 Project Structure
+**📝 Project Structure**
 ufc-performance-analysis/
-├── data/ # raw and processed datasets
-├── notebooks/ # Jupyter notebooks for EDA and analysis
-├── scripts/ # Python scripts
-├── reports/ # visualizations and summary plots
-├── README.md # project overview
-├── requirements.txt # Python dependencies
+├── data/                 # Raw and processed datasets
+├── notebooks/            # Jupyter notebooks for EDA and analysis
+├── scripts/              # Python scripts
+├── reports/              # Visualizations and summary plots
+├── README.md             # Project overview
+└── requirements.txt      # Python dependencies
+
 
 ---
-
 ## 🚀 How to Run
 1. Clone the repository:  
 
