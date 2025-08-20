@@ -27,9 +27,10 @@ This project analyzes UFC fighters’ performance using historical fight data. T
 - Visualizations of top-performing fighters and weight classes  
 
 ---
-```
 
-**📝Project Structure**
+
+##📝 Project Structure
+```
 ufc-performance-analysis/
 ├── data/                 # Raw and processed datasets
 ├── notebooks/            # Jupyter notebooks for EDA and analysis
